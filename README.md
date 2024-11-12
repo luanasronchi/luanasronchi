@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h2 align="left">Oie! Meu nome é Luana e eu sou UI/UX Designer e Front-End Developer</h2>
 
 ###
